@@ -1,4 +1,4 @@
-# TermuBanner
+TermuBanner
 
 **Customize your Termux experience with a stylish Android-themed banner, system info display, and language options. Simple, lightweight, and ready to enhance your terminal!**
 
